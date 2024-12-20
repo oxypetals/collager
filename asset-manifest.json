@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/collager/static/css/main.57d4299d.css",
+    "main.js": "/collager/static/js/main.f63ed51a.js",
+    "index.html": "/collager/index.html",
+    "main.57d4299d.css.map": "/collager/static/css/main.57d4299d.css.map",
+    "main.f63ed51a.js.map": "/collager/static/js/main.f63ed51a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57d4299d.css",
+    "static/js/main.f63ed51a.js"
+  ]
+}
